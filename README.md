@@ -4,7 +4,7 @@
 I am a Full Stack Developer living in Denver, Colorado. I am currently enrolled in Lambda School.
 
 - 🔭 I’m currently working on - React/Vue Projects & [My Portfolio](https://codybrewer.dev)
-- 🌱 I’m currently learning - TypeScript , VueJS 3, and .NET Core
+- 🌱 I’m currently learning - TypeScript , VueJS 3, and .NET 5
 - ⏭ I'd like to expand into - Non-Profit & Game Development
 - 👯 I’m looking to collaborate on - Anything! Ideally projects that use Vue, React, Express or C#
 - 🤔 I’m looking for help with - Networking in the Developer Community
