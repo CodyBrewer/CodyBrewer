@@ -8,5 +8,5 @@ I am a Lambda School Full Stack Web Development graduate living in Denver, Color
 - ⏭ I'd like to expand into - Non-Profit & Game Development
 - 👯 I’m looking to collaborate on - Anything! Ideally projects that use Vue, React, Express or C#
 - 🤔 I’m looking for help with - Networking in the Developer Community
-- 📫 How to reach me: [twitter](https://twitter.com/CodyBrewerDev) or [email](codybrewerdev+github@gmail.com)
+- 📫 [email](codybrewerdev+github@gmail.com)
 - 😄 Pronouns: He/Him
