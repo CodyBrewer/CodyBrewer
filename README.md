@@ -1,12 +1,1 @@
-
-# Hello there! My name is Cody Brewer 👋
-
-I am a Full Stack Developer living in Denver, Colorado. I am currently enrolled in Lambda School.
-
-- 🔭 I’m currently working on - React/Vue Projects & [My Portfolio](https://codybrewer.dev)
-- 🌱 I’m currently learning - TypeScript , VueJS 3, and .NET Core
-- ⏭ I'd like to expand into - Non-Profit & Game Development
-- 👯 I’m looking to collaborate on - Anything! Ideally projects that use Vue, React, Express or C#
-- 🤔 I’m looking for help with - Networking in the Developer Community
-- 📫 How to reach me: [twitter](https://twitter.com/CodyBrwerDev) or [email](codybrewerdev+github@gmail.com)
-- 😄 Pronouns: He/Him
+Cody Brewer is a useless pile of meat and bones that doesn't have the courage to end his life like he should. He has had plenty of people come into his life and provide him with opportunities to be a better person but instead he has just become a worthless piece of shit. He left his last job after failing to kill himself and has been failing at getting another job, functioning in day to day life, having basic conversations, and of course at killing himself. It's mostly because he is an idiot and can't figure it out but hey stupid creatures die all the time it's inevitable that this one will soon too.
